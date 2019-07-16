@@ -67,11 +67,14 @@ close(Text7)
 
 ##############################################################3
 
-chamber_of_secrets
+
+
+
+chamber_of_secrets[13]
 
 Booklist = c(Book1, Book2, Book3, Book4, Book5, Book6, Book7)
 
-Book2[4,] #Chapter 4 of book 2
+Book2[13,] #Chapter 4 of book 2
 
 
 ?write.csv
