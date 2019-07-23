@@ -1,4 +1,6 @@
-#Installation of Packages (Drop Down if you need)
+# Installation of Packages (Drop Down if you need)
+# Will be looped later
+
 {
 install.packages(c("curl", "httr", "devtools"))
 devtools::install_github("bradleyboehmke/harrypotter")
@@ -64,40 +66,3 @@ close(Text4)
 close(Text5)
 close(Text6)
 close(Text7)
-
-##############################################################3
-
-
-
-
-chamber_of_secrets[13]
-
-Booklist = c(Book1, Book2, Book3, Book4, Book5, Book6, Book7)
-
-Book2[13,] #Chapter 4 of book 2
-
-
-?write.csv
-
-x=str_c("HP", deparse(quote(Book1)), ".txt")
-
-write.table(Book1, str_c("HP", deparse(substitute(Book1)), ".txt"), sep = "*")
-
-?substitute
-
-?write.table
-
-library(stringr)
-
-for (book in Booklist) {
-  file = str_c("HP", deparse(quote(book)), ".txt")
-  write.table(book, file, sep = "*")
-}
-
-
-
-data=Book1
-data$Chapter <- seq.int(nrow(data))
-data$Book <- 1
-
-rm(data)
