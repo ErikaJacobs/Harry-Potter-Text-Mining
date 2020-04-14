@@ -21,7 +21,7 @@ This project features sentiment analysis conducted on the text of the Harry Pott
 * [Jupyter Notebook](https://github.com/ErikaJacobs/Harry-Potter-Text-Mining/blob/master/HP_Text_Mining.ipynb)
 * [Blog Post - Exploratory Analysis](https://erikajacobs.netlify.com/post/speaking-parseltongue-to-python/)
 * [Blog Post - Word Cloud](https://erikajacobs.netlify.com/post/harry-potter-and-the-learning-of-wordcloud/)
-* [Blog Post - Sentiment Analysis(https://erikajacobs.netlify.com/post/mood-harry-potter/)
+* [Blog Post - Sentiment Analysis](https://erikajacobs.netlify.com/post/mood-harry-potter/)
 
 # Repository Contents
 
