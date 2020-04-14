@@ -14,7 +14,7 @@ This project features sentiment analysis conducted on the text of the Harry Pott
 * NLTK - Python
 * Pandas - Python
 * WordCloud - Python
-* VADER
+* VADER - Python
 * harrypotter - R Studio
 
 # Featured Notebooks, Analysis, or Deliverables
