@@ -18,13 +18,42 @@ This project features sentiment analysis conducted on the text of the Harry Pott
 * harrypotter - R Studio
 
 # Featured Notebooks, Analysis, or Deliverables
-* [Jupyter Notebook](https://github.com/ErikaJacobs/Harry-Potter-Text-Mining/blob/master/HP_Text_Mining.ipynb)
+* [Jupyter Notebook - Exploratory Data Analysis](https://github.com/ErikaJacobs/Harry-Potter-Text-Mining/blob/master/Scripts/HP_Text_Mining%20-%20Exploratory%20Data%20Analysis.ipynb)
+* [Jupyter Notebook - Word Cloud](https://github.com/ErikaJacobs/Harry-Potter-Text-Mining/blob/master/Scripts/HP_Text_Mining%20-%20Word%20Cloud.ipynb)
+* [Jupyter Notebook - Sentiment Analysis](https://github.com/ErikaJacobs/Harry-Potter-Text-Mining/blob/master/Scripts/HP_Text_Mining%20-%20Sentiment%20Analysis.ipynb)
 * [Blog Post - Exploratory Analysis](https://erikajacobs.netlify.com/post/speaking-parseltongue-to-python/)
 * [Blog Post - Word Cloud](https://erikajacobs.netlify.com/post/harry-potter-and-the-learning-of-wordcloud/)
 * [Blog Post - Sentiment Analysis](https://erikajacobs.netlify.com/post/mood-harry-potter/)
 
 # Repository Contents
-
+* Images - Used to compose Word Cloud
+     * Background.jpg
+     * Footsteps.png
+     * HP_WordCloud.png
+     * Maurader_Logo.png
+     * Mauraders_Map.png
+     * Thunderbolt.jpg
+* Font - Used to style World Cloud
+     * Lumos.tff 
+* Book Text -  Output of Harry Potter text from R Studio
+     * HPBook1.txt
+     * HPBook2.txt
+     * HPBook3.txt
+     * HPBook4.txt
+     * HPBook5.txt
+     * HPBook6.txt
+     * HPBook7.txt
+ * Output - Files created in Notebooks
+      * Exploratory Data Analysis
+           * df.xlsx
+           * HPavgwords.png
+           * HPtotalwords.png
+           * HPlongchaps.png
+           * HPshortchaps.png
+      * Word Cloud
+           * HP_WordCloud_FINAL.png
+      * Sentiment Analysis
+           * HPTimeplot.png
 
 # Sources
 * [R Studio "harrypotter" package](https://github.com/bradleyboehmke/harrypotter)
