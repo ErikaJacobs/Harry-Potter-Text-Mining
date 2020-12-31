@@ -17,13 +17,10 @@ This project features sentiment analysis conducted on the text of the Harry Pott
 * VADER - Python
 * harrypotter - R Studio
 
-# Featured Notebooks, Scripts, Analysis, or Deliverables
+# Featured Notebooks
 * [Jupyter Notebook - Exploratory Data Analysis](https://github.com/ErikaJacobs/Harry-Potter-Text-Mining/blob/master/Scripts/HP_Text_Mining%20-%20Exploratory%20Data%20Analysis.ipynb)
 * [Jupyter Notebook - Word Cloud](https://github.com/ErikaJacobs/Harry-Potter-Text-Mining/blob/master/Scripts/HP_Text_Mining%20-%20Word%20Cloud.ipynb)
 * [Jupyter Notebook - Sentiment Analysis](https://github.com/ErikaJacobs/Harry-Potter-Text-Mining/blob/master/Scripts/HP_Text_Mining%20-%20Sentiment%20Analysis.ipynb)
-* [Blog Post - Exploratory Analysis](https://erikajacobs.netlify.com/post/speaking-parseltongue-to-python/)
-* [Blog Post - Word Cloud](https://erikajacobs.netlify.com/post/harry-potter-and-the-learning-of-wordcloud/)
-* [Blog Post - Sentiment Analysis](https://erikajacobs.netlify.com/post/mood-harry-potter/)
 
 # Other Repository Contents
 * Images - Used to compose Word Cloud
